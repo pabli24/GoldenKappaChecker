@@ -1,0 +1,15 @@
+{
+  "name": "goldenkappabot",
+  "version": "1.0.0",
+  "description": "Checks if you have a Golden Kappa",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pabli",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^10.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
